@@ -1,0 +1,33 @@
+/*common code start*/
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0px;
+}
+.container{
+	width: 90%;
+	margin: 0px auto;
+	border: 1px solid red;
+	display: flex;
+}
+/*common code end*/
+/* nav code start */
+a.navbar-brand{
+	color: ;
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	font-weight: 700;
+}
+ul.navbar{
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+}
+ul.navbar li{
+	list-style: none;
+}
+ul.navbar li a{
+	text-decoration: none;
+}
+/*nav code end*/
